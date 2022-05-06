@@ -1,6 +1,5 @@
-from re import T
-import sqlite3 
-import pandas as pd
+
+import sqlite3 import pandas as pd
 import os
 from dotenv import load_dotenv
 
